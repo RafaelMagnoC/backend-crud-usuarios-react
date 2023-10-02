@@ -1,0 +1,13 @@
+{
+  "name": "backend-db-fic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "json-server --watch ./database/db.json --port 3001"
+  },
+  "author": "Rafael Magno <rafaelmagno125@yahoo.com.br>",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "0.13.0"
+  }
+}
